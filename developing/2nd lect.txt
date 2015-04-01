@@ -1,0 +1,6 @@
+while loop:
+need variable , condition, increament.
+Control+shiftp (write) REIN.
+ctrl{ or ctrl}
+ctrl F --> Find
+ctrl 

@@ -1,0 +1,10 @@
+shortcuts:ahmad 
+	  ahmad 
+	  ahmad you want to change the name on same tym so press ctrl and select the Sentences
+
+Function: a small line code which performs a specific tasks.
+Is basically keyword,
+main,arguments and return type.
+
+Types of Function: User define Functions and pre define
+

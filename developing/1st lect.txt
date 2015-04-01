@@ -1,0 +1,29 @@
+Typecasting If you string you can change it into INT..
+php is implist,
+
+implist: not need to specify to convert the variable to a different type.
+explist: we convert from string to int and so on....
+
+Var_dump is measuring of variable e.g type,lenght, value, size etc.
+_get, _post is used for submisting the data. pre difi.ne variables and functions.
+
+print_r gives us the detail about variable.
+
+(. " " .) --> for concetination.
+if you give more than 1 space then add "&nbps;" (not breaking spaces).it is html syntax.
+
+for comment # and //
+multi comments /* sadggfbgfciueg  */
+
+Arrays:Same collection of data,  we have numbered indexs. 
+
+Assosiative arrays:
+the indexs are not numbers instead they are user define
+ string to help them to know about the index 
+in simple arrays.
+ 
+ Client sever scripting langauge: is th language that is compile natively on user web browser. java script
+
+ Sever Side scripting language: which sends the request to sever and compile and display on browser . Php
+
+ 
